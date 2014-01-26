@@ -6,6 +6,6 @@ categories: jekyll update
 ---
 Its job - like almost ever other big-ticket defence project of the 1950s - was to deliver nuclear incarnation to the Soviets, their neighbours, and anyone else who might get in the way. The way it did this was pure brute-fore engineering. No stealth the the XB70. Instead, a high-altitude drag race, straight to its target at over Mach 3. At 70, 000 feet (twice the altitude of a modern passenger jet) it would leave soviet interceptors in its wake, scrambling to catch up. 
 
-Or, that was the plan. at least. It the mid-50s, winning a flat-out race against Soviet  fighter jets seems sensible. But within a few years, improved surface to air missiles made this assumption questionable . Any question as to the efficicauy of Soviet missiles ended on XXX,  slow, but high-flying U3 spy plane was shot down over the USSR by a SA-XXX missile. Like Gary Power's U2, the idea of a outrunning missiles enede up in a smoking pile of wreckage.
+Or, that was the plan. at least. It the mid-50s, winning a flat-out race against Soviet  fighter jets seems sensible. But within a few years, improved surface to air missiles made this assumption questionable . Any question as to the efficacy of Soviet missiles ended on XXX,  slow, but high-flying U3 spy plane was shot down over the USSR by a SA-XXX missile. Like Gary Power's U2, the idea of a outrunning missiles ended up in a smoking pile of wreckage.
 
-So if fast and high was out, what would the alternative be? The answer was to flow low, and relatively slow. 
+So if fast and high was out, what would the alternative be? The answer was to fly low, and relatively slow. 
