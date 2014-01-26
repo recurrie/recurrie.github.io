@@ -22,7 +22,12 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-size: 100%; }
 
-h1 { margin-bottom: 1em; }
+h1 { 
+font-size: 3em;
+margin-top: .5em;
+margin-bottom: .8em; 
+
+}
 p { margin: 1em 0; }
 
 a         { color: #00a; }
@@ -83,7 +88,7 @@ a:visited { color: #a0a; }
 
 .header a.extra {
   color: #aaa;
-  margin-left: 1em;
+
 }
 
 .header a.extra:hover {
