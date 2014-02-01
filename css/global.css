@@ -28,3 +28,7 @@ float: right;
 background-color: #0F0;
 opacity: 1.0;
 }
+
+div.header {
+	border-radius: .8em;
+}
