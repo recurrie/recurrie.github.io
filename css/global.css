@@ -1,7 +1,6 @@
 body { 
 background: 
-url('/images/photo2.jpg') no-repeat center center fixed,
-url('/images/photo2_lowres.jpg') no-repeat center center fixed;
+url('/images/photo2.jpg') no-repeat center center fixed;
 -moz-background-size: cover;
 -webkit-background-size: cover;
 -o-background-size: cover;
