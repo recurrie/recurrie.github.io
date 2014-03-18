@@ -41,3 +41,6 @@ div.header {
 background-color: #0F0;
 }
 a.extra {display: none;}
+
+h1  {font-size: 60px;}
+h6 {font-size: 18px; text-transform: upper;}
