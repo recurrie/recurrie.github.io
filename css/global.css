@@ -21,6 +21,8 @@ float: left;
 background-color: #F0F;
 border-top-left-radius : 800em;
 border-bottom-left-radius : 800em;
+border-bottom-right-radius : 800em;
+border-bottom-right-radius : 800em;
 background-image: url('../images/redstone.png');
 background-size: 150px;
 }
