@@ -19,8 +19,8 @@ height: 5em;
 width: 20%;
 float: left;
 background-color: #F0F;
-border-top-left-radius : .8em;
-border-bottom-left-radius : .8em;
+border-top-left-radius : 800em;
+border-bottom-left-radius : 800em;
 background-image: url('../images/redstone.png');
 background-size: 150px;
 }
@@ -42,5 +42,10 @@ background-color: #0F0;
 }
 a.extra {display: none;}
 
-h1  {font-size: 2.5em;margin-bottom: 1em;}
-h6 {font-size: 18px; text-transform: upper;}
+h1.title  {font-size: 2.7em;margin-bottom: .25em;
+	margin: 0;
+	padding-top: .3em;
+}
+h6.tagline {font-size: .8em; text-transform: uppercase;
+	padding-top: .6em;
+}
