@@ -4,7 +4,7 @@ title:  "XB-70"
 date:   2014-01-24 21:00:00
 categories: jekyll update
 ---
-Its job - like almost ever other big-ticket defence project of the 1950s - was to deliver nuclear incineration to the Soviets, their neighbours, and anyone else who might get in the way. The way it did this was stark,  brute-fore engineering. No stealth for the XB70. Instead, a high-altitude dash, straight to its target at over Mach 3. At 70,000 feet (twice the altitude of a modern passenger jet) it would leave Soviet interceptors in its wake, scrambling to catch up. 
+Its job - like almost every other big-ticket defence project of the 1950s - was to deliver nuclear incineration to the Soviets, their neighbours, and anyone else who might get in the way. The way it did this was stark,  brute-fore engineering. No stealth for the XB70. Instead, a high-altitude dash, straight to its target at over Mach 3. At 70,000 feet (twice the altitude of a modern passenger jet) it would leave Soviet interceptors in its wake, scrambling to catch up. 
 
 Or, that was the plan, at least. It the mid-50s, winning a drag race against fighter jets seems sensible. But within a few years, improved surface-to-air missiles made this assumption questionable. Any question as to the efficacy of Soviet missiles ended on May Day, 1960,  when the slow, but high-flying U2 spy plane was shot down over the USSR by a SA-75 missile. Like Gary Power's U2, the idea of a outrunning missiles ended up in a smoking pile of wreckage.
 

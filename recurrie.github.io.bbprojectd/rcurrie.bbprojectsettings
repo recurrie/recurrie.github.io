@@ -4,7 +4,7 @@
 <dict>
 	<key>EmbeddedEditorHidden:rcurrie</key>
 	<false/>
-	<key>ExpandedEditorWidth:rcurrie:displays([(0, 0), (1792, 1120)])</key>
+	<key>ExpandedEditorWidth:rcurrie:displays([(0, 0), (1792, 1120)]:[(1792, -420), (2560, 1440)])</key>
 	<integer>1425</integer>
 	<key>ExpandedItems:rcurrie</key>
 	<array>
@@ -22,36 +22,36 @@
 		<dict>
 			<key>BookmarkData</key>
 			<data>
-			Ym9va3ADAAAAAAQQMAAAALaA8aEQvLhatd2WbxfeAq4dIOtKcXdW
-			FC1V6NKbL0e7YAIAAAQAAAADAwAAAAgAKAUAAAABAQAAVXNlcnMA
+			Ym9va2ADAAAAAAQQMAAAAJEHzssW5aK3BeKHHtzNhv74Sxt7Cx7H
+			Tn23aHggHkMVUAIAAAQAAAADAwAAAAgAKAUAAAABAQAAVXNlcnMA
 			AAAHAAAAAQEAAHJjdXJyaWUACQAAAAEBAABEb2N1bWVudHMAAAAS
 			AAAAAQEAAHJlY3VycmllLmdpdGh1Yi5pbwAABgAAAAEBAABfcG9z
-			dHMAACUAAAABAQAAMjAxNC0wMS0yNC13ZWxjb21lLXRvLWpla3ls
-			bC5tYXJrZG93bgAAABgAAAABBgAAEAAAACAAAAAwAAAARAAAAGAA
-			AABwAAAACAAAAAQDAACdUwAAAAAAAAgAAAAEAwAAgPwGAAAAAAAI
-			AAAABAMAAO+7BwAAAAAACAAAAAQDAAByhggAAAAAAAgAAAAEAwAA
-			kIgIAAAAAAAIAAAABAMAAJKICAAAAAAAGAAAAAEGAADAAAAA0AAA
-			AOAAAADwAAAAAAEAABABAAAIAAAAAAQAAEG4kvidAAAAGAAAAAEC
-			AAABAAAAAAAAAA8AAAAAAAAAAAAAAAAAAAAIAAAABAMAAAQAAAAA
-			AAAABAAAAAMDAAD1AQAACAAAAAEJAABmaWxlOi8vLwwAAAABAQAA
-			TWFjaW50b3NoIEhECAAAAAQDAAAAcMTY0QEAAAgAAAAABAAAQcG0
-			Gn0SNV0kAAAAAQEAAEUwRjMwQkNBLTgzODEtNDBENy05M0JFLTFF
-			M0Y5NkZCOTk1QRgAAAABAgAAgQAAAAEAAADvEwAAAQAAAAAAAAAA
-			AAAAAQAAAAEBAAAvAAAAAAAAAAEFAAAaAAAAAQEAAE5TVVJMRG9j
-			dW1lbnRJZGVudGlmaWVyS2V5AAAEAAAAAwMAAO0AAADYAAAA/v//
-			/wEAAAAAAAAAEQAAAAQQAACgAAAAAAAAAAUQAAAgAQAAAAAAABAQ
-			AABQAQAAAAAAAEAQAABAAQAAAAAAAAIgAAAcAgAAAAAAAAUgAACM
-			AQAAAAAAABAgAACcAQAAAAAAABEgAADQAQAAAAAAABIgAACwAQAA
-			AAAAABMgAADAAQAAAAAAACAgAAD8AQAAAAAAADAgAAAoAgAAAAAA
-			AAHAAABwAQAAAAAAABHAAAAgAAAAAAAAABLAAACAAQAAAAAAABDQ
-			AAAEAAAAAAAAADACAIBUAgAAAAAAAA==
+			dHMAABgAAAABAQAAMjEwNC0wMS0yNS14YjcwLm1hcmtkb3duGAAA
+			AAEGAAAQAAAAIAAAADAAAABEAAAAYAAAAHAAAAAIAAAABAMAAJ1T
+			AAAAAAAACAAAAAQDAACA/AYAAAAAAAgAAAAEAwAA77sHAAAAAAAI
+			AAAABAMAAHKGCAAAAAAACAAAAAQDAACQiAgAAAAAAAgAAAAEAwAA
+			1x3DBwAAAAAYAAAAAQYAALAAAADAAAAA0AAAAOAAAADwAAAAAAEA
+			AAgAAAAABAAAQcM5NX56uFkYAAAAAQIAAAEAAAAAAAAADwAAAAAA
+			AAAAAAAAAAAAAAgAAAAEAwAABAAAAAAAAAAEAAAAAwMAAPUBAAAI
+			AAAAAQkAAGZpbGU6Ly8vDAAAAAEBAABNYWNpbnRvc2ggSEQIAAAA
+			BAMAAABwxNjRAQAACAAAAAAEAABBwbQafRI1XSQAAAABAQAARTBG
+			MzBCQ0EtODM4MS00MEQ3LTkzQkUtMUUzRjk2RkI5OTVBGAAAAAEC
+			AACBAAAAAQAAAO8TAAABAAAAAAAAAAAAAAABAAAAAQEAAC8AAAAA
+			AAAAAQUAABoAAAABAQAATlNVUkxEb2N1bWVudElkZW50aWZpZXJL
+			ZXkAAAQAAAADAwAA7gAAANgAAAD+////AQAAAAAAAAARAAAABBAA
+			AJAAAAAAAAAABRAAABABAAAAAAAAEBAAAEABAAAAAAAAQBAAADAB
+			AAAAAAAAAiAAAAwCAAAAAAAABSAAAHwBAAAAAAAAECAAAIwBAAAA
+			AAAAESAAAMABAAAAAAAAEiAAAKABAAAAAAAAEyAAALABAAAAAAAA
+			ICAAAOwBAAAAAAAAMCAAABgCAAAAAAAAAcAAAGABAAAAAAAAEcAA
+			ACAAAAAAAAAAEsAAAHABAAAAAAAAENAAAAQAAAAAAAAAIAIAgEQC
+			AAAAAAAA
 			</data>
 			<key>FileURL</key>
-			<string>file:///Users/rcurrie/Documents/recurrie.github.io/_posts/2014-01-24-welcome-to-jekyll.markdown</string>
+			<string>file:///Users/rcurrie/Documents/recurrie.github.io/_posts/2104-01-25-xb70.markdown</string>
 			<key>HasSecurityScope</key>
 			<true/>
 			<key>RelativePath</key>
-			<string>./_posts/2014-01-24-welcome-to-jekyll.markdown</string>
+			<string>./_posts/2104-01-25-xb70.markdown</string>
 			<key>TypeID</key>
 			<string>_CFileLocator</string>
 			<key>Version</key>
@@ -98,54 +98,16 @@
 		<dict>
 			<key>BookmarkData</key>
 			<data>
-			Ym9va2ADAAAAAAQQMAAAAJEHzssW5aK3BeKHHtzNhv74Sxt7Cx7H
-			Tn23aHggHkMVUAIAAAQAAAADAwAAAAgAKAUAAAABAQAAVXNlcnMA
-			AAAHAAAAAQEAAHJjdXJyaWUACQAAAAEBAABEb2N1bWVudHMAAAAS
-			AAAAAQEAAHJlY3VycmllLmdpdGh1Yi5pbwAABgAAAAEBAABfcG9z
-			dHMAABgAAAABAQAAMjEwNC0wMS0yNS14YjcwLm1hcmtkb3duGAAA
-			AAEGAAAQAAAAIAAAADAAAABEAAAAYAAAAHAAAAAIAAAABAMAAJ1T
-			AAAAAAAACAAAAAQDAACA/AYAAAAAAAgAAAAEAwAA77sHAAAAAAAI
-			AAAABAMAAHKGCAAAAAAACAAAAAQDAACQiAgAAAAAAAgAAAAEAwAA
-			1x3DBwAAAAAYAAAAAQYAALAAAADAAAAA0AAAAOAAAADwAAAAAAEA
-			AAgAAAAABAAAQcM5NX56uFkYAAAAAQIAAAEAAAAAAAAADwAAAAAA
-			AAAAAAAAAAAAAAgAAAAEAwAABAAAAAAAAAAEAAAAAwMAAPUBAAAI
-			AAAAAQkAAGZpbGU6Ly8vDAAAAAEBAABNYWNpbnRvc2ggSEQIAAAA
-			BAMAAABwxNjRAQAACAAAAAAEAABBwbQafRI1XSQAAAABAQAARTBG
-			MzBCQ0EtODM4MS00MEQ3LTkzQkUtMUUzRjk2RkI5OTVBGAAAAAEC
-			AACBAAAAAQAAAO8TAAABAAAAAAAAAAAAAAABAAAAAQEAAC8AAAAA
-			AAAAAQUAABoAAAABAQAATlNVUkxEb2N1bWVudElkZW50aWZpZXJL
-			ZXkAAAQAAAADAwAA7gAAANgAAAD+////AQAAAAAAAAARAAAABBAA
-			AJAAAAAAAAAABRAAABABAAAAAAAAEBAAAEABAAAAAAAAQBAAADAB
-			AAAAAAAAAiAAAAwCAAAAAAAABSAAAHwBAAAAAAAAECAAAIwBAAAA
-			AAAAESAAAMABAAAAAAAAEiAAAKABAAAAAAAAEyAAALABAAAAAAAA
-			ICAAAOwBAAAAAAAAMCAAABgCAAAAAAAAAcAAAGABAAAAAAAAEcAA
-			ACAAAAAAAAAAEsAAAHABAAAAAAAAENAAAAQAAAAAAAAAIAIAgEQC
-			AAAAAAAA
-			</data>
-			<key>FileURL</key>
-			<string>file:///Users/rcurrie/Documents/recurrie.github.io/_posts/2104-01-25-xb70.markdown</string>
-			<key>HasSecurityScope</key>
-			<true/>
-			<key>RelativePath</key>
-			<string>./_posts/2104-01-25-xb70.markdown</string>
-			<key>TypeID</key>
-			<string>_CFileLocator</string>
-			<key>Version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>BookmarkData</key>
-			<data>
-			Ym9va1ADAAAAAAQQMAAAAHBJwc8wYMTLDZDB9O/Ruc9MoOM0bOXt
-			fq2pKJv7h7rbQAIAAAQAAAADAwAAAAgAKAUAAAABAQAAVXNlcnMA
+			Ym9va1ADAAAAAAQQMAAAAGc4437gPnragX6c+5/0b2R3DwOUO4LK
+			WWgNCIiVUvGHQAIAAAQAAAADAwAAAAgAKAUAAAABAQAAVXNlcnMA
 			AAAHAAAAAQEAAHJjdXJyaWUACQAAAAEBAABEb2N1bWVudHMAAAAS
 			AAAAAQEAAHJlY3VycmllLmdpdGh1Yi5pbwAAAwAAAAEBAABjc3MA
 			CgAAAAEBAABnbG9iYWwuY3NzAAAYAAAAAQYAABAAAAAgAAAAMAAA
 			AEQAAABgAAAAbAAAAAgAAAAEAwAAnVMAAAAAAAAIAAAABAMAAID8
 			BgAAAAAACAAAAAQDAADvuwcAAAAAAAgAAAAEAwAAcoYIAAAAAAAI
-			AAAABAMAALCICAAAAAAACAAAAAQDAABM6MIHAAAAABgAAAABBgAA
-			oAAAALAAAADAAAAA0AAAAOAAAADwAAAACAAAAAAEAABBwzkriiGE
-			7RgAAAABAgAAAQAAAAAAAAAPAAAAAAAAAAAAAAAAAAAACAAAAAQD
+			AAAABAMAALCICAAAAAAACAAAAAQDAABlLscHAAAAABgAAAABBgAA
+			oAAAALAAAADAAAAA0AAAAOAAAADwAAAACAAAAAAEAABBwznZAqc0
+			VhgAAAABAgAAAQAAAAAAAAAPAAAAAAAAAAAAAAAAAAAACAAAAAQD
 			AAAEAAAAAAAAAAQAAAADAwAA9QEAAAgAAAABCQAAZmlsZTovLy8M
 			AAAAAQEAAE1hY2ludG9zaCBIRAgAAAAEAwAAAHDE2NEBAAAIAAAA
 			AAQAAEHBtBp9EjVdJAAAAAEBAABFMEYzMEJDQS04MzgxLTQwRDct
@@ -509,7 +471,7 @@
 	<array>
 		<dict>
 			<key>Date</key>
-			<date>2021-06-11T14:55:32Z</date>
+			<date>2021-06-12T13:23:42Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -554,7 +516,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2021-06-11T14:55:32Z</date>
+			<date>2021-06-12T13:23:42Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -599,7 +561,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2021-06-11T14:55:32Z</date>
+			<date>2021-06-12T13:23:42Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -643,7 +605,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2021-06-11T14:55:32Z</date>
+			<date>2021-06-12T13:23:42Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -685,7 +647,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2021-06-11T14:55:32Z</date>
+			<date>2021-06-12T13:23:42Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -729,7 +691,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2021-06-11T14:55:32Z</date>
+			<date>2021-06-12T13:23:42Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -773,7 +735,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2021-06-11T14:55:32Z</date>
+			<date>2021-06-12T13:23:42Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -816,7 +778,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2021-06-11T14:55:32Z</date>
+			<date>2021-06-12T13:23:42Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -859,7 +821,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2021-06-11T14:55:32Z</date>
+			<date>2021-06-12T13:23:42Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -900,7 +862,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2021-06-11T14:55:32Z</date>
+			<date>2021-06-12T13:23:42Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -945,7 +907,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2021-06-11T14:55:32Z</date>
+			<date>2021-06-12T13:23:42Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -988,7 +950,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2021-06-11T14:55:32Z</date>
+			<date>2021-06-12T13:23:42Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -1032,7 +994,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2021-06-11T14:55:32Z</date>
+			<date>2021-06-12T13:23:42Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -1083,7 +1045,7 @@
 	<false/>
 	<key>ViewSplitterPosition:rcurrie</key>
 	<real>0.17677642405033112</real>
-	<key>WindowFrame:rcurrie:displays([(0, 0), (1792, 1120)])</key>
+	<key>WindowFrame:rcurrie:displays([(0, 0), (1792, 1120)]:[(1792, -420), (2560, 1440)])</key>
 	<string>rect(67,22,1094,1753)</string>
 </dict>
 </plist>
